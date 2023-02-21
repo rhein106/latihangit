@@ -1,0 +1,2 @@
+# latihangit
+rep latihan git
